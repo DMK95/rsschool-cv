@@ -1,1 +1,1 @@
-https://github.com/DMK95/rsschool-cv
+https://github.com/DMK95/rsschool
