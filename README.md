@@ -1,1 +1,1 @@
-https://github.com/DMK95/rsschool-cv/tree/rsschool-cv-html
+https://DMK95.github.io/rsschool-cv/
